@@ -6,6 +6,6 @@ export default defineConfig({
   },
 
   nitro: {
-    preset: "vercel-edge",
+    preset: "vercel",
   },
 });
